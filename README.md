@@ -45,7 +45,7 @@ I would like to express my gratitude to the following:
 
 ## 🖼️ Screenshot
 
-![Tic Tac Toe game Screenshot](https://github.com/nurul-k/My-Portfolio-/blob/76894ed8c0be97a2b96a8358e56cbff38f1d12c5/screenshot.png)
+![Tic Tac Toe game Screenshot](https://github.com/nurul-k/Tic-Tac-Toe-Game/blob/e40327c65e3edf1d16febcce0cc261fb576bfccb/Screenshot%202024-12-11%20161412.png)
 
 ---
 
